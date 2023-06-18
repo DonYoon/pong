@@ -16,3 +16,24 @@ This project showcases a simple yet classic game of "Pong" implemented using Pyt
 - **Turtle**: This Python module is used for the game's graphical output and keyboard input handling.
 - **os Module**: The os module is used to play sound effects during the game. The "afplay" command is specific to MacOS, so this feature might not work on other operating systems.
 - **Infinite Loop**: The main game loop, an infinite "while" loop, continually updates the game window, moves the ball, checks for collisions, updates the score, and monitors game termination conditions.
+
+## Getting Started
+
+Follow these steps to set up and run the game locally:
+
+1. **Clone the repository:**
+
+    git clone https://github.com/your-username/pong.git
+
+    Replace `your-username` with your GitHub username.
+
+2. **Change to the project directory:**
+
+    cd pong
+
+3. **Run the game:**
+
+    python pong.py
+
+4. **Enjoy playing Pong!**
+
