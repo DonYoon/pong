@@ -23,9 +23,7 @@ Follow these steps to set up and run the game locally:
 
 1. **Clone the repository:**
 
-    git clone https://github.com/your-username/pong.git
-
-    Replace `your-username` with your GitHub username.
+    git clone https://github.com/DonYoon/pong.git
 
 2. **Change to the project directory:**
 
